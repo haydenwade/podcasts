@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="https://feeds.buzzsprout.com/styles.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://feeds.buzzsprout.com/987628.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>Zero Plus One Podcast</title>
+  <lastBuildDate>Wed, 29 May 2024 23:01:26 -0500</lastBuildDate>
+  <link>https://www.zeroplusonepodcast.com/</link>
+  <language>en-us</language>
+  <copyright>© 2024 Zero Plus One Podcast</copyright>
+  <podcast:locked>yes</podcast:locked>
+    <podcast:guid>93582065-bce1-5cf9-986d-c03eda36da1d</podcast:guid>
+    <itunes:author>Hayden Wade</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <description><![CDATA[We strive to bring you the most valuable insights into becoming and being a successful software engineer. Our host Hayden Wade has coded until his fingers were sore but most of all he enjoys mentoring aspiring engineers, speaking at Universities, and petting alpacas in his spare time. In these episodes of the Zero Plus One Podcast we will cover everything from how to land your dream job, career advice, tech, and hear extraordinary guests talk about their journey to success.]]></description>
+  <itunes:keywords>career advice, software engineer, computer science, dream job, successful software engineer, career tips, software engineering</itunes:keywords>
+  <itunes:owner>
+    <itunes:name>Hayden Wade</itunes:name>
+  </itunes:owner>
+  <image>
+     <url>https://storage.buzzsprout.com/1ry0qvo2fon6nfql8e36dvr7qkiu?.jpg</url>
+     <title>Zero Plus One Podcast</title>
+     <link>https://www.zeroplusonepodcast.com/</link>
+  </image>
+  <itunes:image href="https://storage.buzzsprout.com/1ry0qvo2fon6nfql8e36dvr7qkiu?.jpg" />
+  <itunes:category text="Business">
+    <itunes:category text="Careers" />
+  </itunes:category>
+  <itunes:category text="Education" />
+  <itunes:category text="Technology" />
+  <item>
+    <itunes:title>All Things Job Searching And Job Market With Zac Kallas</itunes:title>
+    <title>All Things Job Searching And Job Market With Zac Kallas</title>
+    <itunes:summary><![CDATA[In this episode I interview Zac Kallas of SkyWater Search Partners to talk about all things recruiting and job searching. Zac and I dive into the current state of the job market, and challenges for both software engineers and recruiters. We discuss how recruiters can best serve software engineers in their job search and what value they bring to the table. Thanks for listening and don't forget to like and subscribe!00:00 - Introduction02:10 - Why would a software engineer want to work with a r...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode I interview Zac Kallas of SkyWater Search Partners to talk about all things recruiting and job searching. Zac and I dive into the current state of the job market, and challenges for both software engineers and recruiters. We discuss how recruiters can best serve software engineers in their job search and what value they bring to the table. Thanks for listening and don&apos;t forget to like and subscribe!<br/><br/>00:00 - Introduction<br/>02:10 - Why would a software engineer want to work with a recruiter?<br/>07:00 - Types of candidates that succeed<br/>10:40 - How to attract good talent<br/>15:30 - Current Job Market<br/>17:50 - Trends<br/>31:50 - Tips for Recruiters <br/>33:55 - Salary Ranges<br/>42:45 - Unlimited PTO<br/>48:13 - How can recruiters be a better partner to software engineers (understanding your value)<br/>58:50 - Outro<br/><br/>Zac Kallas<br/><a href='https://www.linkedin.com/in/zac-kallas'>https://www.linkedin.com/in/zac-kallas<br/></a><a href='https://www.skywatersearch.com'>www.skywatersearch.com<br/></a>@skywater<br/><br/><br/>Social Media:<br/><a href='https://instagram.com/zeroplusonepodcast'>https://instagram.com/zeroplusonepodcast</a><br/><a href='https://linkedin.com/company/zeroplusonepodcast'>https://linkedin.com/company/zeroplusonepodcast</a><br/><a href='https://twitter.com/zeroplusonepod'>https://twitter.com/zeroplusonepod</a><br/><a href='https://facebook.com/zeroplusonepodcast'>https://facebook.com/zeroplusonepodcast</a></p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode I interview Zac Kallas of SkyWater Search Partners to talk about all things recruiting and job searching. Zac and I dive into the current state of the job market, and challenges for both software engineers and recruiters. We discuss how recruiters can best serve software engineers in their job search and what value they bring to the table. Thanks for listening and don&apos;t forget to like and subscribe!<br/><br/>00:00 - Introduction<br/>02:10 - Why would a software engineer want to work with a recruiter?<br/>07:00 - Types of candidates that succeed<br/>10:40 - How to attract good talent<br/>15:30 - Current Job Market<br/>17:50 - Trends<br/>31:50 - Tips for Recruiters <br/>33:55 - Salary Ranges<br/>42:45 - Unlimited PTO<br/>48:13 - How can recruiters be a better partner to software engineers (understanding your value)<br/>58:50 - Outro<br/><br/>Zac Kallas<br/><a href='https://www.linkedin.com/in/zac-kallas'>https://www.linkedin.com/in/zac-kallas<br/></a><a href='https://www.skywatersearch.com'>www.skywatersearch.com<br/></a>@skywater<br/><br/><br/>Social Media:<br/><a href='https://instagram.com/zeroplusonepodcast'>https://instagram.com/zeroplusonepodcast</a><br/><a href='https://linkedin.com/company/zeroplusonepodcast'>https://linkedin.com/company/zeroplusonepodcast</a><br/><a href='https://twitter.com/zeroplusonepod'>https://twitter.com/zeroplusonepod</a><br/><a href='https://facebook.com/zeroplusonepodcast'>https://facebook.com/zeroplusonepodcast</a></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/l1xhziyzf7y2csl189zjo0sl7859?.jpg" />
+    <itunes:author>Hayden Wade</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/987628/11267079-all-things-job-searching-and-job-market-with-zac-kallas.mp3" length="44241008" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11267079</guid>
+    <pubDate>Mon, 05 Sep 2022 21:00:00 -0500</pubDate>
+    <podcast:chapters url="https://www.buzzsprout.com/987628/11267079/chapters.json" type="application/json" />
+    <psc:chapters>
+  <psc:chapter start="0:00" title="Introduction" />
+  <psc:chapter start="2:10" title="Why would a software engineer want to work with a recruiter?" />
+  <psc:chapter start="7:00" title="Types of candidates that succeed" />
+  <psc:chapter start="10:40" title="How to attract good talent" />
+  <psc:chapter start="15:30" title=" Current Job Market" />
+  <psc:chapter start="17:50" title="Trends" />
+  <psc:chapter start="31:50" title="Tips for Recruiters" />
+  <psc:chapter start="33:55" title="Salary Ranges" />
+  <psc:chapter start="42:45" title="Unlimited PTO" />
+  <psc:chapter start="48:13" title="How can recruiters be a better partner to software engineers (understanding your value)" />
+  <psc:chapter start="58:30" title="Outro" />
+</psc:chapters>
+    <itunes:duration>3682</itunes:duration>
+    <itunes:keywords>software engineering, recruiter, recruiting, interviews, job search, job market, skywater, executiverecruiting, software engineer, salary, compensation</itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Japan English Teacher Turns Software Engineer with Wyatt Weisensel</itunes:title>
+    <title>Japan English Teacher Turns Software Engineer with Wyatt Weisensel</title>
+    <itunes:summary><![CDATA[In this episode I interview Wyatt Weisensel on how he went from being an english teacher in Japan to becoming a software engineer. Wyatt goes in-depth about what his 5 months of unemployment and job searching looked like during covid. He talks about how to stay relevant, the importance of side projects, how to take control of the interview, understanding your value, and the importance of mentorship. We go on to talk about how interviewing in the midwest is different and the same from big tech...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode I interview Wyatt Weisensel on how he went from being an english teacher in Japan to becoming a software engineer. Wyatt goes in-depth about what his 5 months of unemployment and job searching looked like during covid. He talks about how to stay relevant, the importance of side projects, how to take control of the interview, understanding your value, and the importance of mentorship. We go on to talk about how interviewing in the midwest is different and the same from big tech companies, FANG.  Making a decision or evaluating offers can be difficult, so Wyatt and I talk about why it&apos;s important to look at more than just salary when choosing  an offer.<br/><br/>Wyatt Weisensel<br/>https://www.linkedin.com/in/wyattw/<br/>https://wordcompleteonline.com/<br/><br/>Social Media:<br/><a href='https://www.zeroplusonepodcast.com/'>zeroplusonepodcast.com<br/></a><a href='https://www.instagram.com/zeroplusonepodcast'>instagram.com/zeroplusonepodcast<br/></a><a href='https://www.linkedin.com/company/zeroplusonepodcast'>linkedin.com/company/zeroplusonepodcast<br/></a><a href='https://www.twitter.com/zeroplusonepod'>twitter.com/zeroplusonepod<br/></a><a href='https://www.facebook.com/zeroplusonepodcast'>facebook.com/zeroplusonepodcast</a></p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode I interview Wyatt Weisensel on how he went from being an english teacher in Japan to becoming a software engineer. Wyatt goes in-depth about what his 5 months of unemployment and job searching looked like during covid. He talks about how to stay relevant, the importance of side projects, how to take control of the interview, understanding your value, and the importance of mentorship. We go on to talk about how interviewing in the midwest is different and the same from big tech companies, FANG.  Making a decision or evaluating offers can be difficult, so Wyatt and I talk about why it&apos;s important to look at more than just salary when choosing  an offer.<br/><br/>Wyatt Weisensel<br/>https://www.linkedin.com/in/wyattw/<br/>https://wordcompleteonline.com/<br/><br/>Social Media:<br/><a href='https://www.zeroplusonepodcast.com/'>zeroplusonepodcast.com<br/></a><a href='https://www.instagram.com/zeroplusonepodcast'>instagram.com/zeroplusonepodcast<br/></a><a href='https://www.linkedin.com/company/zeroplusonepodcast'>linkedin.com/company/zeroplusonepodcast<br/></a><a href='https://www.twitter.com/zeroplusonepod'>twitter.com/zeroplusonepod<br/></a><a href='https://www.facebook.com/zeroplusonepodcast'>facebook.com/zeroplusonepodcast</a></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/8xuw969nlghzaomqsgodgvtt8ih1?.jpg" />
+    <itunes:author></itunes:author>
+    <enclosure url="https://www.buzzsprout.com/987628/5971666-japan-english-teacher-turns-software-engineer-with-wyatt-weisensel.mp3" length="38067923" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-5971666</guid>
+    <pubDate>Tue, 20 Oct 2020 12:00:00 -0500</pubDate>
+    <itunes:duration>3169</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Power of Being Surrounded By Like Minded Individuals With Neil CarlinSchauer</itunes:title>
+    <title>The Power of Being Surrounded By Like Minded Individuals With Neil CarlinSchauer</title>
+    <itunes:summary><![CDATA[In this episode, I interview Neil CarlinSchauer, a software engineer. He talks about how he went from being a super senior failing classes to becoming a full stack software engineer who is now leading projects and mentoring junior engineers. Seeking and creating opportunities was a recurring theme in Neil’s career. Neil goes in depth on how he “leveled up” during college with his first internship and by surrounding himself with like minded individuals. To wrap up the interview I asked him wha...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, I interview Neil CarlinSchauer, a software engineer. He talks about how he went from being a super senior failing classes to becoming a full stack software engineer who is now leading projects and mentoring junior engineers. Seeking and creating opportunities was a recurring theme in Neil’s career. Neil goes in depth on how he “leveled up” during college with his first internship and by surrounding himself with like minded individuals. To wrap up the interview I asked him what are four tips for software engineering candidates, he replied with five:</p><ol><li>Research the company you’re applying for</li><li>Be up to date on your technical skills (fundamentals)</li><li>Practice interviewing</li><li>Solid communication</li><li>Don’t be a dick</li></ol><p><br/>Be sure to checkout Neil CarlinSchauer on social:<br/>https://www.linkedin.com/in/neilcarlinschauer/<br/><br/>Pramp - referral link we both get free peer to peer interviewing credits<br/>https://www.pramp.com/invt/lYxw4xqvojcmWYrVQ0mA<br/><br/>Social Media:<br/><a href='https://www.zeroplusonepodcast.com'>zeroplusonepodcast.com<br/></a><a href='https://www.instagram.com/zeroplusonepodcast'>instagram.com/zeroplusonepodcast<br/></a><a href='https://www.linkedin.com/company/zeroplusonepodcast'>linkedin.com/company/zeroplusonepodcast<br/></a><a href='https://www.twitter.com/zeroplusonepod'>twitter.com/zeroplusonepod<br/></a><a href='https://www.facebook.com/zeroplusonepodcast'>facebook.com/zeroplusonepodcast</a></p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, I interview Neil CarlinSchauer, a software engineer. He talks about how he went from being a super senior failing classes to becoming a full stack software engineer who is now leading projects and mentoring junior engineers. Seeking and creating opportunities was a recurring theme in Neil’s career. Neil goes in depth on how he “leveled up” during college with his first internship and by surrounding himself with like minded individuals. To wrap up the interview I asked him what are four tips for software engineering candidates, he replied with five:</p><ol><li>Research the company you’re applying for</li><li>Be up to date on your technical skills (fundamentals)</li><li>Practice interviewing</li><li>Solid communication</li><li>Don’t be a dick</li></ol><p><br/>Be sure to checkout Neil CarlinSchauer on social:<br/>https://www.linkedin.com/in/neilcarlinschauer/<br/><br/>Pramp - referral link we both get free peer to peer interviewing credits<br/>https://www.pramp.com/invt/lYxw4xqvojcmWYrVQ0mA<br/><br/>Social Media:<br/><a href='https://www.zeroplusonepodcast.com'>zeroplusonepodcast.com<br/></a><a href='https://www.instagram.com/zeroplusonepodcast'>instagram.com/zeroplusonepodcast<br/></a><a href='https://www.linkedin.com/company/zeroplusonepodcast'>linkedin.com/company/zeroplusonepodcast<br/></a><a href='https://www.twitter.com/zeroplusonepod'>twitter.com/zeroplusonepod<br/></a><a href='https://www.facebook.com/zeroplusonepodcast'>facebook.com/zeroplusonepodcast</a></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/litie2z7re5kygpqg7pqsjry71j3?.jpg" />
+    <itunes:author>Hayden Wade, Neil CarlinSchauer</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/987628/4109072-the-power-of-being-surrounded-by-like-minded-individuals-with-neil-carlinschauer.mp3" length="52891156" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4109072</guid>
+    <pubDate>Wed, 17 Jun 2020 21:00:00 -0500</pubDate>
+    <itunes:duration>4404</itunes:duration>
+    <itunes:keywords>software engineering, career advice, career growth, overcoming failure, like minded individuals, super senior, college failure, internship, interview advice</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>It&#39;s a Great Time To Be or Become a Software Engineer</itunes:title>
+    <title>It&#39;s a Great Time To Be or Become a Software Engineer</title>
+    <itunes:summary><![CDATA[During these hard times and this state of social distancing, I wanted to bring a different perspective to this episode. I give three tips on being an effective teammate while working from home, as well as, a deep dive into a few topics from last episode: getting an internship, resume advice, study plans, and recovering from failure. I give additional advice on how to network while you are stuck inside.Stay healthy and safe! Help stop the coronavirus (covid 19) by social distancing!Social Medi...]]></itunes:summary>
+    <description><![CDATA[<p>During these hard times and this state of social distancing, I wanted to bring a different perspective to this episode. I give three tips on being an effective teammate while working from home, as well as, a deep dive into a few topics from last episode: getting an internship, resume advice, study plans, and recovering from failure. I give additional advice on how to network while you are stuck inside.<br/><br/>Stay healthy and safe! <br/>Help stop the coronavirus (covid 19) by social distancing!<br/><br/>Social Media:<br/><a href='https://www.zeroplusonepodcast.com'>zeroplusonepodcast.com<br/></a><a href='https://www.instagram.com/zeroplusonepodcast'>instagram.com/zeroplusonepodcast<br/></a><a href='https://www.linkedin.com/company/zeroplusonepodcast'>linkedin.com/company/zeroplusonepodcast<br/></a><a href='https://www.twitter.com/zeroplusonepod'>twitter.com/zeroplusonepod<br/></a><a href='https://www.facebook.com/zeroplusonepodcast'>facebook.com/zeroplusonepodcast</a></p>]]></description>
+    <content:encoded><![CDATA[<p>During these hard times and this state of social distancing, I wanted to bring a different perspective to this episode. I give three tips on being an effective teammate while working from home, as well as, a deep dive into a few topics from last episode: getting an internship, resume advice, study plans, and recovering from failure. I give additional advice on how to network while you are stuck inside.<br/><br/>Stay healthy and safe! <br/>Help stop the coronavirus (covid 19) by social distancing!<br/><br/>Social Media:<br/><a href='https://www.zeroplusonepodcast.com'>zeroplusonepodcast.com<br/></a><a href='https://www.instagram.com/zeroplusonepodcast'>instagram.com/zeroplusonepodcast<br/></a><a href='https://www.linkedin.com/company/zeroplusonepodcast'>linkedin.com/company/zeroplusonepodcast<br/></a><a href='https://www.twitter.com/zeroplusonepod'>twitter.com/zeroplusonepod<br/></a><a href='https://www.facebook.com/zeroplusonepodcast'>facebook.com/zeroplusonepodcast</a></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/kcyogjum6q27wnju6w2et5hsnpzq?.jpg" />
+    <itunes:author>Hayden Wade</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/987628/3250390-it-s-a-great-time-to-be-or-become-a-software-engineer.mp3" length="27405829" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-3250390</guid>
+    <pubDate>Sun, 05 Apr 2020 20:00:00 -0500</pubDate>
+    <itunes:duration>2280</itunes:duration>
+    <itunes:keywords>wfh, work from home, effective teammate, software engineering, career advice, success, career growth, overcoming failure</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Hustle With Anas Abdulahi</itunes:title>
+    <title>The Hustle With Anas Abdulahi</title>
+    <itunes:summary><![CDATA[In this episode, I interview Anas Abdulahi, an aspiring software engineer. He tells us about how he got his first internship and first full time job after attending college. He shares his failures and how he overcame those failures in order to get to where he is today. We cover the differences between interviewing for a internship verses a full-time position, how to study for technical interviews, and understanding your value when you receive an offer.Be sure to check out Anas on social media...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, I interview Anas Abdulahi, an aspiring software engineer. He tells us about how he got his first internship and first full time job after attending college. He shares his failures and how he overcame those failures in order to get to where he is today. We cover the differences between interviewing for a internship verses a full-time position, how to study for technical interviews, and understanding your value when you receive an offer.<br/><br/><br/>Be sure to check out Anas on social media:<br/><a href="https://instagram.com/lifeofanas">http://instagram.com/lifeofanas</a><br/><a href='https://twitter.com/lifeofanas/'>https://twitter.com/lifeofanas/</a><br/><a href='https://www.linkedin.com/in/lifeofanas/'>https://www.linkedin.com/in/lifeofanas/</a><br/><br/>Social Media:<br/><a href='https://www.zeroplusonepodcast.com'>zeroplusonepodcast.com<br/></a><a href='https://www.instagram.com/zeroplusonepodcast'>instagram.com/zeroplusonepodcast<br/></a><a href='https://www.linkedin.com/company/zeroplusonepodcast'>linkedin.com/company/zeroplusonepodcast<br/></a><a href='https://www.twitter.com/zeroplusonepod'>twitter.com/zeroplusonepod<br/></a><a href='https://www.facebook.com/zeroplusonepodcast'>facebook.com/zeroplusonepodcast</a></p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, I interview Anas Abdulahi, an aspiring software engineer. He tells us about how he got his first internship and first full time job after attending college. He shares his failures and how he overcame those failures in order to get to where he is today. We cover the differences between interviewing for a internship verses a full-time position, how to study for technical interviews, and understanding your value when you receive an offer.<br/><br/><br/>Be sure to check out Anas on social media:<br/><a href="https://instagram.com/lifeofanas">http://instagram.com/lifeofanas</a><br/><a href='https://twitter.com/lifeofanas/'>https://twitter.com/lifeofanas/</a><br/><a href='https://www.linkedin.com/in/lifeofanas/'>https://www.linkedin.com/in/lifeofanas/</a><br/><br/>Social Media:<br/><a href='https://www.zeroplusonepodcast.com'>zeroplusonepodcast.com<br/></a><a href='https://www.instagram.com/zeroplusonepodcast'>instagram.com/zeroplusonepodcast<br/></a><a href='https://www.linkedin.com/company/zeroplusonepodcast'>linkedin.com/company/zeroplusonepodcast<br/></a><a href='https://www.twitter.com/zeroplusonepod'>twitter.com/zeroplusonepod<br/></a><a href='https://www.facebook.com/zeroplusonepodcast'>facebook.com/zeroplusonepodcast</a></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/v0szglq60bq9daz7n7tpuufkpcr2?.jpg" />
+    <itunes:author>Hayden Wade, Anas Abdulahi</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/987628/3250351-the-hustle-with-anas-abdulahi.mp3" length="19082058" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-3250351</guid>
+    <pubDate>Sun, 05 Apr 2020 19:00:00 -0500</pubDate>
+    <itunes:duration>1587</itunes:duration>
+    <itunes:keywords>software engineering, career advice, career growth, overcoming failure, dream job, interviewing, resume tips, technical interviews, computer science, students, internship, coding, interview process, leetcode, hackerrank, algorithms, data structures</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Beginning - An Intro to the Zero Plus One Podcast</itunes:title>
+    <title>The Beginning - An Intro to the Zero Plus One Podcast</title>
+    <itunes:summary><![CDATA[Welcome to the Zero Plus One Podcast!!! I am excited to bring you the knowledge and motivation to becoming a successful software engineer. This podcast will cover the tactical steps needed to land your dream job. I'll be covering everything needed to get you your first software engineering job or internship, such as interviewing tips and tricks, resume advice, studying for technical interviews, and negotiating offers. For those who have already landed their first software engineering job, I'l...]]></itunes:summary>
+    <description><![CDATA[<p>Welcome to the Zero Plus One Podcast!!! I am excited to bring you the knowledge and motivation to becoming a successful software engineer. This podcast will cover the tactical steps needed to land your dream job. I&apos;ll be covering everything needed to get you your first software engineering job or internship, such as interviewing tips and tricks, resume advice, studying for technical interviews, and negotiating offers. <br/><br/>For those who have already landed their first software engineering job, I&apos;ll be covering how to grow and advance in your career, how to become a leader on your team and within an organization, and how to navigate the journey of a software engineer. <br/><br/>You will hear from special guests from a variety of roles to give you better insight and a different perspective into what it&apos;s like to be a software engineer. A few examples include: having a hiring manager on to talk about what she or he looks for in an ideal candidate, having a recruiter on to talk about how they can serve you best as a software engineer searching for a new job, or having a software engineer on to talk about their experience as a software engineer.<br/><br/><br/>Social Media:<br/><a href='https://www.zeroplusonepodcast.com'>zeroplusonepodcast.com<br/></a><a href='https://www.instagram.com/zeroplusonepodcast'>instagram.com/zeroplusonepodcast<br/></a><a href='https://www.linkedin.com/company/zeroplusonepodcast'>linkedin.com/company/zeroplusonepodcast<br/></a><a href='https://www.twitter.com/zeroplusonepod'>twitter.com/zeroplusonepod<br/></a><a href='https://www.facebook.com/zeroplusonepodcast'>facebook.com/zeroplusonepodcast</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Welcome to the Zero Plus One Podcast!!! I am excited to bring you the knowledge and motivation to becoming a successful software engineer. This podcast will cover the tactical steps needed to land your dream job. I&apos;ll be covering everything needed to get you your first software engineering job or internship, such as interviewing tips and tricks, resume advice, studying for technical interviews, and negotiating offers. <br/><br/>For those who have already landed their first software engineering job, I&apos;ll be covering how to grow and advance in your career, how to become a leader on your team and within an organization, and how to navigate the journey of a software engineer. <br/><br/>You will hear from special guests from a variety of roles to give you better insight and a different perspective into what it&apos;s like to be a software engineer. A few examples include: having a hiring manager on to talk about what she or he looks for in an ideal candidate, having a recruiter on to talk about how they can serve you best as a software engineer searching for a new job, or having a software engineer on to talk about their experience as a software engineer.<br/><br/><br/>Social Media:<br/><a href='https://www.zeroplusonepodcast.com'>zeroplusonepodcast.com<br/></a><a href='https://www.instagram.com/zeroplusonepodcast'>instagram.com/zeroplusonepodcast<br/></a><a href='https://www.linkedin.com/company/zeroplusonepodcast'>linkedin.com/company/zeroplusonepodcast<br/></a><a href='https://www.twitter.com/zeroplusonepod'>twitter.com/zeroplusonepod<br/></a><a href='https://www.facebook.com/zeroplusonepodcast'>facebook.com/zeroplusonepodcast</a></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/ajv2ct5b2a6plfm1qoi32dv7xzhr?.jpg" />
+    <itunes:author>Hayden Wade</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/987628/3250324-the-beginning-an-intro-to-the-zero-plus-one-podcast.mp3" length="2299455" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-3250324</guid>
+    <pubDate>Sun, 05 Apr 2020 19:00:00 -0500</pubDate>
+    <itunes:duration>189</itunes:duration>
+    <itunes:keywords>software engineering, career advice, success, career growth, overcoming failure, dream job, interviewing, resume tips, technical interviews, computer science, students, internship, coding, interview process, hiring manager, recruiter</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>

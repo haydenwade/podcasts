@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:podcast="https://podcastindex.org/namespace/1.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:psc="http://podlove.org/simple-chapters"
+	xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link href="https://haydenwade.com/rss/goat-talk/goat-talk.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"
+			xmlns="http://www.w3.org/2005/Atom" />
+		<title>Goat Talk</title>
+		<lastBuildDate>Wed, 04 Sep 2024 21:49:27 -0500</lastBuildDate>
+		<link>https://www.instagram.com/growthgoats_/</link>
+		<language>en-us</language>
+		<copyright>© 2024 Goat Talk</copyright>
+		<podcast:locked>yes</podcast:locked>
+		<podcast:guid>259db7ba-3496-5258-9fef-98031f17c88c</podcast:guid>
+		<itunes:author>Hayden Wade, Justin Mueller, Cody Winter</itunes:author>
+		<itunes:type>episodic</itunes:type>
+		<itunes:explicit>false</itunes:explicit>
+		<description><![CDATA[<p>Welcome to Goat Talk, a brand-new podcast brought to you by the founders of Growth Goats, Hayden Wade, Justin Mueller, and Cody Winter! Designed to help you unlock your true potential, Goat Talk delves deep into the realms of personal growth, career advancement, business success, and thriving relationships.</p><p><br>Growth Goats firmly believes that everyone has the capacity to fulfill their dreams and accomplish their goals, with the right mindset, tools, and guidance. And it is this conviction that fuels every episode of Goat Talk.<br><br></p><p>Join Hayden, Justin, and Cody as they connect with distinguished guests from various walks of life - accomplished entrepreneurs, visionary business leaders, inspirational influencers, and world-class experts who've walked the path of success. These experts share their experiences, insights, and practical advice on career growth, brand building, and the multifaceted world of business.<br><br></p><p>Whether you're an aspiring entrepreneur embarking on a new venture, a professional seeking to climb the career ladder, or someone simply interested in cultivating a growth mindset, Goat Talk is your go-to guide. Let's traverse this journey together, one episode at a time, and make the leap towards a brighter and more successful future.<br><br></p><p>Tune in to Goat Talk and let's start growing together!</p>]]></description>
+		<itunes:keywords>growth, entrepreneurship, personal development, business, tech, software, leadership, real estate, investing</itunes:keywords>
+		<itunes:owner>
+			<itunes:name>Hayden Wade, Justin Mueller, Cody Winter</itunes:name>
+			<itunes:email>zeroplusonepodcast@gmail.com</itunes:email>
+		</itunes:owner>
+		<image>
+			<url>https://haydenwade.com/rss/goat-talk/goat-talk-podcast-cover.jpeg</url>
+			<title>Goat Talk</title>
+			<link>https://www.instagram.com/growthgoats_/</link>
+		</image>
+		<itunes:image href="https://haydenwade.com/rss/goat-talk/goat-talk-podcast-cover.jpeg" />
+		<itunes:category text="Business">
+			<itunes:category text="Entrepreneurship" />
+		</itunes:category>
+		<itunes:category text="Business">
+			<itunes:category text="Investing" />
+		</itunes:category>
+		<itunes:category text="Education">
+			<itunes:category text="Self-Improvement" />
+		</itunes:category>
+		<podcast:person role="host" href="https://www.instagram.com/codycwinter/" img="https://haydenwade.com/rss/goat-talk/cody.jpeg">Cody Winter</podcast:person>
+		<podcast:person role="host" href="https://haydenwade.com" img="https://haydenwade.com/rss/goat-talk/hayden.jpeg">Hayden Wade</podcast:person>
+		<podcast:person role="host" href="https://www.instagram.com/stinmueller/" img="https://haydenwade.com/rss/goat-talk/justin.jpeg">Justin Mueller</podcast:person>
+		<item>
+			<itunes:title>Growing a Small Business with Special Guest Olivia Hasko</itunes:title>
+			<title>Growing a Small Business with Special Guest Olivia Hasko</title>
+			<link>https://haydenwade.com</link>
+    		<itunes:summary><![CDATA[Today we bring on a special guest Olivia Hasko! Olivia runs a cleaning company in central Wisconsin. We go over the challenges of running a small business, how word of mouth has helped her grow her business, and the challenges of training employees and employee retention.Thanks for listening!Join the Private Facebook Group: https://www.facebook.com/groups/growthgoatsInstagram: https://www.instagram.com/growthgoats_/LinkedIn: https://www.linkedin.com/groups/14244873/TikTok: https://www.tiktok.com/@growthgoats]]></itunes:summary>
+    		<description><![CDATA[<p>Today we bring on a special guest Olivia Hasko! Olivia runs a cleaning company in central Wisconsin. <br/><br/>We go over the challenges of running a small business, how word of mouth has helped her grow her business, and the challenges of training employees and employee retention.<br/><br/>Thanks for listening!</p><p>Join the Private Facebook Group: <br/>https://www.facebook.com/groups/growthgoats<br/><br/><br/>Instagram: https://www.instagram.com/growthgoats_/<br/>LinkedIn: https://www.linkedin.com/groups/14244873/<br/>TikTok: https://www.tiktok.com/@growthgoats</p>]]></description>
+    		<content:encoded><![CDATA[<p>Today we bring on a special guest Olivia Hasko! Olivia runs a cleaning company in central Wisconsin. <br/><br/>We go over the challenges of running a small business, how word of mouth has helped her grow her business, and the challenges of training employees and employee retention.<br/><br/>Thanks for listening!</p><p>Join the Private Facebook Group: <br/>https://www.facebook.com/groups/growthgoats<br/><br/><br/>Instagram: https://www.instagram.com/growthgoats_/<br/>LinkedIn: https://www.linkedin.com/groups/14244873/<br/>TikTok: https://www.tiktok.com/@growthgoats</p>]]></content:encoded>
+    		<itunes:image href="https://haydenwade.com/rss/goat-talk/s1e2/s1e2cover.jpeg" />
+			<itunes:author>Hayden Wade, Justin Mueller, Cody Winter</itunes:author>
+			<enclosure url="https://haydenwade.com/rss/goat-talk/s1e2/growing-a-small-business-with-olivia-hasko.mp3" length="26497569" type="audio/mpeg" />
+			<guid isPermaLink="false">Buzzsprout-13451121</guid>
+			<pubDate>Tue, 22 Aug 2023 11:00:00 -0500</pubDate>
+			<itunes:duration>2204</itunes:duration>
+			<itunes:keywords>GoatTalk,GrowthGoats,OnlineCommunities,SocialMediaStrategy,ContentCreation,CommunityBuilding,FacebookGroups,DigitalMarketing,EngagementStrategy,SocialNetworking,LinkedInStrategy,InstagramGrowth,TikTokMarketing, Small Business, SMB, Hiring, Growth, Custome</itunes:keywords>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
+		<item>
+			<itunes:title>WTF is Growth Goats?</itunes:title>
+			<title>WTF is Growth Goats?</title>
+			<itunes:summary><![CDATA[<p>In this inaugural episode of Goat Talk, a Growth Goats podcasts, hosts Justin, Cody, and Hayden explore the exciting world of online communities. They delve into the significance of understanding your audience, and the strategies they&apos;ve implemented in their own Facebook group to engage and grow their community. <br/><br/>The trio shares valuable insights on effective platform utilization, emphasizing the need to create a &apos;home base&apos; while also acknowledging the role of other platforms in community expansion. They discuss how Instagram, LinkedIn, TikTok, and other platforms can serve as tools to attract community members and guide them to the main hub - their Facebook group. <br/><br/>The hosts also highlight the importance of strategic content creation. They explain their meticulous thought process behind each post, ensuring that it adds value to their community and aligns with their goals. <br/><br/>Towards the end of the episode, they address challenges such as managing different platforms and maintaining engagement with members who might not be on their primary platform. Providing solutions and alternatives, they stress the need to accommodate all members, regardless of their platform preference. <br/><br/>Finally, they touch on their plans for the future, envisioning local meetups, and continually growing their group with diverse individuals who share their desire for growth and learning. This episode serves as an excellent resource for anyone interested in building or managing an online community, offering practical advice and real-life examples from the Growth Goats&apos; own experiences. <br/><br/>Join Justin, Cody, and Hayden for this enriching discussion, and don&apos;t miss the chance to be part of the Growth Goats community. It&apos;s not just about growing an online community, but also personal growth and becoming better individuals. Listen in and be part of their journey.</p><p>Join the Private Facebook Group: <br/>https://www.facebook.com/groups/growthgoats<br/><br/><br/>Instagram: https://www.instagram.com/growthgoats_/<br/>LinkedIn: https://www.linkedin.com/groups/14244873/<br/>TikTok: https://www.tiktok.com/@growthgoats</p>]]></itunes:summary>
+    		<description><![CDATA[<p>In this inaugural episode of Goat Talk, a Growth Goats podcasts, hosts Justin, Cody, and Hayden explore the exciting world of online communities. They delve into the significance of understanding your audience, and the strategies they&apos;ve implemented in their own Facebook group to engage and grow their community. <br/><br/>The trio shares valuable insights on effective platform utilization, emphasizing the need to create a &apos;home base&apos; while also acknowledging the role of other platforms in community expansion. They discuss how Instagram, LinkedIn, TikTok, and other platforms can serve as tools to attract community members and guide them to the main hub - their Facebook group. <br/><br/>The hosts also highlight the importance of strategic content creation. They explain their meticulous thought process behind each post, ensuring that it adds value to their community and aligns with their goals. <br/><br/>Towards the end of the episode, they address challenges such as managing different platforms and maintaining engagement with members who might not be on their primary platform. Providing solutions and alternatives, they stress the need to accommodate all members, regardless of their platform preference. <br/><br/>Finally, they touch on their plans for the future, envisioning local meetups, and continually growing their group with diverse individuals who share their desire for growth and learning. This episode serves as an excellent resource for anyone interested in building or managing an online community, offering practical advice and real-life examples from the Growth Goats&apos; own experiences. <br/><br/>Join Justin, Cody, and Hayden for this enriching discussion, and don&apos;t miss the chance to be part of the Growth Goats community. It&apos;s not just about growing an online community, but also personal growth and becoming better individuals. Listen in and be part of their journey.</p><p>Join the Private Facebook Group: <br/>https://www.facebook.com/groups/growthgoats<br/><br/><br/>Instagram: https://www.instagram.com/growthgoats_/<br/>LinkedIn: https://www.linkedin.com/groups/14244873/<br/>TikTok: https://www.tiktok.com/@growthgoats</p>]]></description>
+    		<content:encoded><![CDATA[<p>In this inaugural episode of Goat Talk, a Growth Goats podcasts, hosts Justin, Cody, and Hayden explore the exciting world of online communities. They delve into the significance of understanding your audience, and the strategies they&apos;ve implemented in their own Facebook group to engage and grow their community. <br/><br/>The trio shares valuable insights on effective platform utilization, emphasizing the need to create a &apos;home base&apos; while also acknowledging the role of other platforms in community expansion. They discuss how Instagram, LinkedIn, TikTok, and other platforms can serve as tools to attract community members and guide them to the main hub - their Facebook group. <br/><br/>The hosts also highlight the importance of strategic content creation. They explain their meticulous thought process behind each post, ensuring that it adds value to their community and aligns with their goals. <br/><br/>Towards the end of the episode, they address challenges such as managing different platforms and maintaining engagement with members who might not be on their primary platform. Providing solutions and alternatives, they stress the need to accommodate all members, regardless of their platform preference. <br/><br/>Finally, they touch on their plans for the future, envisioning local meetups, and continually growing their group with diverse individuals who share their desire for growth and learning. This episode serves as an excellent resource for anyone interested in building or managing an online community, offering practical advice and real-life examples from the Growth Goats&apos; own experiences. <br/><br/>Join Justin, Cody, and Hayden for this enriching discussion, and don&apos;t miss the chance to be part of the Growth Goats community. It&apos;s not just about growing an online community, but also personal growth and becoming better individuals. Listen in and be part of their journey.</p><p>Join the Private Facebook Group: <br/>https://www.facebook.com/groups/growthgoats<br/><br/><br/>Instagram: https://www.instagram.com/growthgoats_/<br/>LinkedIn: https://www.linkedin.com/groups/14244873/<br/>TikTok: https://www.tiktok.com/@growthgoats</p>]]></content:encoded>
+    		<itunes:image href="https://haydenwade.com/rss/goat-talk/s1e1/s1e1cover.jpeg" />
+			<itunes:author>Hayden Wade, Justin Mueller, Cody Winter</itunes:author>
+			<enclosure url="https://haydenwade.com/rss/goat-talk/s1e1/wtf-is-growth-goats.mp3" length="26746584" type="audio/mpeg" />
+			<guid isPermaLink="false">Buzzsprout-12950388</guid>
+			<pubDate>Tue, 30 May 2023 21:00:00 -0500</pubDate>
+            <podcast:transcript url="https://haydenwade.com/rss/goat-talk/s1e1/transcript.html" type="text/html" />
+			<podcast:transcript url="https://haydenwade.com/rss/goat-talk/s1e1/transcript.json" type="application/json" />
+			<podcast:transcript url="https://haydenwade.com/rss/goat-talk/s1e1/transcript.vtt" type="text/vtt" />
+			<podcast:chapters url="https://haydenwade.com/rss/goat-talk/s1e1/chapters.json" type="application/json" />
+			<psc:chapters>
+				<psc:chapter start="0:00" title="WTF is Growth Goats?" />
+				<psc:chapter start="0:42" title="The Founders" />
+				<psc:chapter start="5:04" title="Beginning of Growth Goats" />
+				<psc:chapter start="6:16" title="Growth Goats Community" />
+				<psc:chapter start="8:58" title="What to expect" />
+				<psc:chapter start="12:54" title="Challenges with Starting a Community" />
+				<psc:chapter start="21:15" title="Platform Strategy" />
+				<psc:chapter start="30:32" title="The Vision" />
+				<psc:chapter start="34:32" title="Weekly Member Live Calls" />
+			</psc:chapters>
+			<itunes:duration>2225</itunes:duration>
+    		<itunes:keywords>GoatTalk,GrowthGoats,OnlineCommunities,SocialMediaStrategy,ContentCreation,CommunityBuilding,FacebookGroups,DigitalMarketing,EngagementStrategy,SocialNetworking,LinkedInStrategy,InstagramGrowth,TikTokMarketing</itunes:keywords>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
+	</channel>
+</rss>
